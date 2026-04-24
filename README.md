@@ -27,12 +27,6 @@
 
 **HabitQuest** transforms habit-building into an engaging RPG-like experience. Users create habits, manage tasks, schedule their week, run focus sessions, and compete on a global leaderboard. Every productive action earns **XP**, levels up the user, and contributes to a **streak-based image puzzle reveal system** — a first-of-its-kind gamification mechanic.
 
-### Team Split
-| Role | Contributor | Scope |
-|------|-------------|-------|
-| **Frontend** | Friend | UI/UX Design, HTML/CSS/JS, Theme System, Animations |
-| **Backend** | You (Chenna Sai Charan) | REST API, Database Design, Authentication, Gamification Logic, Puzzle Engine |
-
 ---
 
 ## ✨ Features
@@ -441,10 +435,6 @@ A 16-test-case manual testing guide is included:
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of the following pages for a complete portfolio showcase)*
-
 | Page | Description |
 |------|-------------|
 | Login | Dark themed login with password visibility toggle |
@@ -472,7 +462,7 @@ A 16-test-case manual testing guide is included:
 - Leaderboard ranking system
 - Comprehensive testing & bug fixes
 
-### 🎨 Frontend Developer — **Friend**
+### 🎨 Frontend Developer — **Somasekhar Reddy**
 - Complete UI/UX design and implementation
 - 11 responsive HTML pages with semantic markup
 - CSS theming system (dark/light, 6 themes, custom colors, backgrounds)
@@ -482,24 +472,18 @@ A 16-test-case manual testing guide is included:
 - LocalStorage-based offline resilience
 - Puzzle tile flip animations and grid rendering
 
-### Special Thanks
-- Course instructors and TAs for guidance
-- Open-source community for tools and libraries
 
 ---
 
 ## 📄 License
 
-This project was built for academic purposes as part of a Software Development Lab course. All rights reserved by the authors.
+This project was built for academic purposes. All rights reserved by the authors.
 
 ---
 
 ## 🔗 Links
 
-- **Live Demo:** *(Add Render/Vercel URL)*
-- **API Documentation:** Postman collection available at `server/postman/Habit_Tracker_API.postman_collection.json`
-- **Frontend Repo:** *(If separate)*
-- **Backend Repo:** *(If separate)*
+- **Live Demo:** https://habitquest-rho.vercel.app/
 
 ---
 
